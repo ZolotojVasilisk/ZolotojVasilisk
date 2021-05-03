@@ -17,7 +17,7 @@ class MyArrayNew {
             sc.next();
             System.out.println("Вы ввели не целое число");
             System.out.println("проверка изменений");
-
+//что будет если внеси изменения
         }}
     }
 }
